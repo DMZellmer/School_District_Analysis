@@ -33,7 +33,7 @@ After removing compromised test results from Grade 9 at Thomas High School:
 * % Passing Reading dropped 0.3%
 * % Overall Passing dropped 0.1%
 
-* School Summary Changes
+# School Summary Changes
 -------------------------
 Since the only school in the district to have their data changed was Thomas High School, no other school saw changes in math and reading.  
 
